@@ -16,7 +16,7 @@ I am a Computer Engineering student interested in programming, embedded systems,
 - Basic Programming
 - Python Programming
 - Problem solving
-
+-HTML
 # Projects Section
 
 ## Programming Project
@@ -33,17 +33,20 @@ A simple calculator application for solving basic mathematical operations.
   ## Project Screenshot
 ![Project Screenshot](att.kWCy0GOt4P63lc2hxzAe8yqjjcD7AbfBi9s50Emogdw.jpeg)
 
+## Screen Design
+
 ### Project Title
-Arduino LED Project
+Online Enrollment System
 
 ### Description
-An Arduino-based LED blinking system using Arduino UNO.
+An Online Enrollment System is a web-based application designed to simplify and automate the student enrollment process in schools, colleges, or universities. 
 
 ### Technologies Used
-- Arduino UNO
-- C++
+- Android studio
+- HTML
 
----
+## Project Screenshot
+
 
 ## Web Development Project
 
