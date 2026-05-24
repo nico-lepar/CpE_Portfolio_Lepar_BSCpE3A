@@ -66,6 +66,7 @@ A power supply is an electronic device that provides electrical energy to a circ
 - Resistor
 
 ## Project Screenshot
+![Project Image](IMG_4612.jpeg)
 
 # Contact Information
 
