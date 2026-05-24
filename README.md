@@ -16,7 +16,7 @@ I am a Computer Engineering student interested in programming, embedded systems,
 - Basic Programming
 - Python Programming
 - Problem solving
--HTML
+- HTML
 # Projects Section
 
 ## Programming Project
