@@ -49,17 +49,23 @@ An Online Enrollment System is a web-based application designed to simplify and 
 ![Project Image](IMG_4664.png)
 
 
-## Web Development Project
+## Power Supply
 
 ### Project Title
-Basic Website Design
+5V Power Supply
 
 ### Description
-A simple responsive website project using HTML and CSS.
+A power supply is an electronic device that provides electrical energy to a circuit or electronic equipment.
 
-### Technologies Used
-- HTML
-- CSS
+### Components Used
+- Transformer
+- Capacitor
+- Diodes
+- Voltage Regulator(7805)
+- LED Indicator
+- Resistor
+
+## Project Screenshot
 
 # Contact Information
 
