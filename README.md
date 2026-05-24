@@ -31,7 +31,9 @@ A simple calculator application for solving basic mathematical operations.
 - Onlinegdb Python
 
   ## Project Screenshot
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/att.kWCy0GOt4P63lc2hxzAe8yqjjcD7AbfBi9s50Emogdw.jpeg /main/images/photo.jpg" width="250" style="border-radius:50%;">
+</p>
 
 ### Project Title
 Arduino LED Project
