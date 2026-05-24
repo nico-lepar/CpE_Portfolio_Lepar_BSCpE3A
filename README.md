@@ -13,12 +13,9 @@ BSCpE 3A
 I am a Computer Engineering student interested in programming, embedded systems, and technology development.
 
 ### Skills & Technologies
-- Arduino
-- ESP32
-- C++
-- Python
-- HTML/CSS
-- Java
+- Basic Programming
+- Python Programming
+- Problem solving
 
 # Projects Section
 
@@ -31,10 +28,7 @@ Calculator Program
 A simple calculator application for solving basic mathematical operations.
 
 ### Technologies Used
-- Java
-- C++
-
----
+- Onlinegdb Python
 
 ## Arduino Project
 
