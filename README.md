@@ -71,4 +71,4 @@ A 5V power supply is an electronic circuit or device that provides a stable 5-vo
 
 # Contact Information
 
-GitHub: yourusername
+GitHub: https://github.com/nico-lepar/CpE_Portfolio_Lepar_BSCpE3A
