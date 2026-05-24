@@ -32,9 +32,6 @@ A simple calculator application for solving basic mathematical operations.
 
   ## Project Screenshot
 
-![Project Image](Screenshots/project1.jpg)
-
-## Arduino Project
 
 ### Project Title
 Arduino LED Project
