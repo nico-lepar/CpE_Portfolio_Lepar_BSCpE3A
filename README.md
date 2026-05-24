@@ -2,7 +2,7 @@
 # Personal Information
 
 ## Name
-Your Name
+Nico Jhon Lepar
 
 ## Course / Section
 BS Computer Engineering
@@ -15,15 +15,13 @@ and activities related to programming and technology.
 ## Skills
 - Basic Programming
 - Python Programming
-- HTML
-- CSS
 - Problem Solving
 
 ## Projects
 - Enrollment System
 - Calculator App
-- Arduino Projects
+- Power supply
 
-## Contact
-- Email: yourname@gmail.com
-- Facebook: yourfb
+## 1.Enrollment system Screen design
+## Description 
+- A simple login design screen UI design created for practice in user interface design
