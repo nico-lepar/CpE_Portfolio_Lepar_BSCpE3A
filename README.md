@@ -46,6 +46,7 @@ An Online Enrollment System is a web-based application designed to simplify and 
 - HTML
 
 ## Project Screenshot
+![Project Image](IMG_4664.png)
 
 
 ## Web Development Project
