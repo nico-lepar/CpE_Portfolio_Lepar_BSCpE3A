@@ -30,6 +30,10 @@ A simple calculator application for solving basic mathematical operations.
 ### Technologies Used
 - Onlinegdb Python
 
+  ## Project Screenshot
+
+![Project Image](Screenshots/project1.jpg)
+
 ## Arduino Project
 
 ### Project Title
