@@ -55,7 +55,7 @@ An Online Enrollment System is a web-based application designed to simplify and 
 5V Power Supply
 
 ### Description
-A power supply is an electronic device that provides electrical energy to a circuit or electronic equipment.
+A 5V power supply is an electronic circuit or device that provides a stable 5-volt DC output to power electronic components and devices.
 
 ### Components Used
 - Transformer
@@ -64,6 +64,7 @@ A power supply is an electronic device that provides electrical energy to a circ
 - Voltage Regulator(7805)
 - LED Indicator
 - Resistor
+- Printed Circuit Board(PCB)
 
 ## Project Screenshot
 ![Project Image](IMG_4612.jpeg)
